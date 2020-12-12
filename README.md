@@ -1,16 +1,19 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Edbtvplays&show_icons=true">
 
-<!--
-**Edbtvplays/Edbtvplays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there 👋
+I'm Rihan, a student in Surrey who works for [@Modern-Hosting](https://github.com/Modern-Hosting) and [@Modern-Hosting](https://github.com/Blairs-Brainiacs) 🖥
 
-Here are some ideas to get you started:
+If I'm not working, I'm probably playing MC. 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://twitter.com/Edbtvplays">
+  <img align="left" alt="Eds Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/edward_.brook_/">
+  <img align="left" alt="Ed's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+</a>
+<a href="https://steamcommunity.com/id/Edbtvplays/">
+  <img align="left" alt="Ed's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
+</a>
+<a href="https://github.com/Edbtvplays">
+  <img align="left" alt="Ed's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
