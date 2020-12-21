@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Edbtvplays&show_icons=true">
 
 ### Hello there 👋
-I'm Ed, a student in Surrey who works for [@Modern-Hosting](https://github.com/Modern-Hosting) and [@Modern-Hosting](https://github.com/Blairs-Brainiacs) 🖥
+I'm Ed, a student in Surrey who works for [@Modern-Hosting](https://github.com/Modern-Hosting) and [@Blairs-Brainiacs](https://github.com/Blairs-Brainiacs) 🖥
 
 If I'm not working, I'm probably playing MC. 🎮
 
